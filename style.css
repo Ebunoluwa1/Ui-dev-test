@@ -299,7 +299,8 @@ user-select: none;
  .c4{
    position: absolute;
    top: 2750px;
-   width: 1350px;
+  margin-left: 280px;
+  overflow: hidden;
    color: #fff;
    text-align: center;
    font-style: normal;
@@ -310,7 +311,7 @@ line-height: 65px;
 p.c5{
    position: absolute;
    top: 2800px;
-   width: 1350px;
+   margin-left: 190px;
    text-align: center;
    color: #fff;
    font-style: normal;
